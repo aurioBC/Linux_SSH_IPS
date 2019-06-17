@@ -23,3 +23,5 @@ Requirements are as follows:
     - Monitor a log file of user’s choice (Optional - bonus). Keep in mind that different log files have different formats
 
   > The application will be activated through the use of crontab 
+
+Please read the Design Doc for further details.
